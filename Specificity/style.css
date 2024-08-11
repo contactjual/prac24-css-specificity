@@ -1,0 +1,39 @@
+
+
+body {
+    font-size: 30px;
+}
+
+
+/* [   id=100
+    class=10
+    element=01
+] */
+
+
+
+/* div .cls #i-d p {
+    color: black;
+}
+not working */
+
+
+.cls #i-d p {
+    color: gold;
+}
+
+.cls #i-d {
+    color: rgb(227, 0, 0);
+}
+
+#i-d {
+    color: rgb(255, 106, 0);
+}
+
+.cls {
+    color: rgb(167, 112, 218);
+}
+
+div {
+    color: blue;
+}
